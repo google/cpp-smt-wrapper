@@ -59,8 +59,6 @@ http_archive(
 # CC Foreign Dependencies rule repository
 http_archive(
     name = "rules_foreign_cc",
-    # TODO: Get the latest sha256 value from a bazel debug message or the latest 
-    # sha256 = "...",
     strip_prefix = "rules_foreign_cc-0.9.0",
     url = "https://github.com/bazelbuild/rules_foreign_cc/archive/0.9.0.tar.gz",
 )
