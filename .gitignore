@@ -1,0 +1,13 @@
+# Ignore CI build directory
+bazel-bin
+bazel-genfiles
+bazel-googletest
+bazel-out
+bazel-testlogs
+
+# VSCode files
+.cache/
+cmake-variants.yaml
+
+# macOS files
+.DS_Store
