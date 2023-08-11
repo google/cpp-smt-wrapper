@@ -1,6 +1,8 @@
 # cpp-smt-wrapper
 ## C++ Wrappers for SMT Solvers
 
+Please Note: This is not an officially supported Google product.
+
 This library provides the ability to interact with one or more
 [SMT Solver](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 implementations using C++.
